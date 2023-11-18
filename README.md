@@ -3,7 +3,10 @@
 ![built-by-shashank](https://user-images.githubusercontent.com/111509274/224708842-3093d8ad-a270-46c6-9068-09d618859625.svg)
 
 
-# If you want to check out the function directly, you can visit:
+# If you want to check out the function, you can visit:
 
 ## https://tic-tac-toe-iota-rosy.vercel.app
+
+![thank-you](https://user-images.githubusercontent.com/111509274/224711319-a1d404c8-b3d2-4246-87a2-caed5922d7e7.svg)
+
 
